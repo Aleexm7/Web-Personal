@@ -1,6 +1,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
+  ssr: true, // Server-side rendering habilitado para Vercel
   app: {
     head: {
       title: 'Mi Currículum Web',
