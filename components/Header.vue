@@ -2,7 +2,7 @@
   <header class="header">
     <nav class="nav container">
       <div class="nav-brand">
-        <NuxtLink to="/" class="brand-link">Mi CV</NuxtLink>
+        <NuxtLink to="/" class="brand-link">CV Alejandro Muñoz</NuxtLink>
       </div>
       <ul class="nav-menu" :class="{ active: menuOpen }">
         <li><NuxtLink to="/" @click="closeMenu">Inicio</NuxtLink></li>

@@ -9,23 +9,6 @@ Currículum web profesional desarrollado con Vue.js y Nuxt 3.
 - Componentes reutilizables
 - Navegación intuitiva
 
-## Instalación
-
-```bash
-npm install
-```
-
-## Desarrollo
-
-```bash
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
 
 ## Estructura
 
