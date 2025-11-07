@@ -26,10 +26,6 @@
             <div class="technology-info">
               <div class="technology-header">
                 <span class="technology-name">{{ tech.name }}</span>
-                <span class="technology-percentage">{{ tech.percentage }}%</span>
-              </div>
-              <div class="technology-bar">
-                <div class="technology-progress" :style="{ width: tech.percentage + '%' }"></div>
               </div>
             </div>
           </div>
