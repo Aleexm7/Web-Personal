@@ -143,18 +143,18 @@ const description = 'Soy desarrollador de software con más de dos años de expe
 
 // Tecnologías
 const technologies = [
-  { name: 'C#', percentage: 70 },
-  { name: '.NET', percentage: 70 },
-  { name: 'Vue.js', percentage: 40 },
-  { name: 'Python', percentage: 50 },
-  { name: 'React', percentage: 40 },
-  { name: 'Oracle', percentage: 70 },
-  { name: 'MySQL', percentage: 70 },
-  { name: 'Java', percentage: 70 },
-  { name: 'Laravel', percentage: 50 },
-  { name: 'Docker', percentage: 50 },
-  { name: 'PHP', percentage: 70 },
-  { name: 'Javascript', percentage: 70 }
+  { name: 'C#'},
+  { name: '.NET'},
+  { name: 'Vue.js'},
+  { name: 'Python'},
+  { name: 'React'},
+  { name: 'Oracle'},
+  { name: 'MySQL'},
+  { name: 'Java'},
+  { name: 'Laravel'},
+  { name: 'Docker'},
+  { name: 'PHP'},
+  { name: 'Javascript'}
 ]
 const experience = [
   {
@@ -244,7 +244,7 @@ const certifications = [
 // Idiomas
 const languages = [
   { name: 'Español', level: 'Nativo', percentage: 100 },
-  { name: 'Inglés', level: 'Intermedio', percentage: 70 }
+  { name: 'Inglés', level: 'Intermedio'}
 ]
 </script>
 
