@@ -5,7 +5,7 @@
       <div class="container">
         <div class="hero-content">
           <div class="hero-image">
-            <img src="/img/profile.png" alt="Foto de perfil" class="profile-img" />
+            <img src="/img/profile.JPG" alt="Foto de perfil" class="profile-img" />
           </div>
           <div class="hero-text">
             <h1 class="hero-title">Hola, soy {{ name }}</h1>
