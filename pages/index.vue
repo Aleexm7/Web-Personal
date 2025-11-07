@@ -88,7 +88,7 @@
 // Datos personales
 const name = 'Alejandro'
 const title = 'Muñoz Domínguez'
-const description = 'Soy desarrollador de software con algo más de dos años de experiencia, trabajando tanto en aplicaciones de escritorio como en aplicaciones web. Principalmente he utilizado C#, .NET y WPF, y también he trabajado con React y Vue en la parte web. Además, tengo conocimientos en Java, PHP y Laravel, así como experiencia con bases de datos Oracle y MySQL. Me gusta aplicar buenas prácticas y, tengo nociones en el desarrollo de APIs, gestión de bases de datos y algunos aspectos de seguridad. Me considero una persona que aprende rápido, que disfruta trabajar en equipo y que busca mejorar continuamente y aportar valor a los proyectos en los que participo.'
+const description = 'Soy desarrollador de software con más de dos años de experiencia, trabajando tanto en aplicaciones de escritorio como en aplicaciones web. Principalmente he utilizado C#, .NET y WPF, y también he trabajado con React y Vue en la parte web. Además, tengo conocimientos en Java, PHP y Laravel, así como experiencia con bases de datos Oracle y MySQL. Me gusta aplicar buenas prácticas, tengo nociones en el desarrollo de APIs, gestión de bases de datos y aspectos de seguridad. Me considero una persona que aprende rápido, que disfruta trabajar en equipo y que busca mejorar continuamente y aportar valor a los proyectos en los que participo.'
 const experience = [
   {
     position: 'Desarrollador Full Stack',
