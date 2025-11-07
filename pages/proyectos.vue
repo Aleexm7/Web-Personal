@@ -3,7 +3,7 @@
     <section class="projects section">
       <div class="container">
         <h1 class="page-title">Mis Proyectos</h1>
-        <p class="page-subtitle">Una selección de proyectos que he desarrollado</p>
+        <p class="page-subtitle">Una selección de proyectos que he desarrollado para empresas y proyectos personales</p>
         
         <div class="projects-grid">
           <div v-for="(project, index) in projects" :key="index" class="project-card card">
@@ -65,10 +65,9 @@
 const projects = [
   {
     title: 'Automatizador de Búsqueda de Repuestos',
-    description: 'Desarrollé una aplicación de escritorio en Python utilizando Tkinter, diseñada para automatizar la búsqueda de piezas de automóvil a partir de su referencia. Para ello, implementé técnicas de web scraping con el fin de consultar automáticamente distintos proveedores indicados por el cliente, agilizando así el proceso de búsqueda y reduciendo el tiempo de gestión manual.',
+    description: 'Desarrollé una aplicación de escritorio en Python utilizando Tkinter, creada para la empresa RS Recambios. La aplicación está diseñada para automatizar la búsqueda de piezas de automóvil a partir de su referencia. Para ello, implementé técnicas de web scraping con el fin de consultar automáticamente distintos proveedores indicados por el cliente, agilizando así el proceso de búsqueda y reduciendo el tiempo de gestión manual.',
     image: '/img/logo_app_buscador.png',
     technologies: ['Python', 'Tkinter'],
-    /* github: 'https://github.com/tu-usuario/proyecto1', */
     demo: null
   },
   
