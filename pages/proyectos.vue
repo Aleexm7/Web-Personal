@@ -75,7 +75,7 @@ const projects = [
     description: 'Desarrollé una página web profesional para una entrenadora personal utilizando React y TypeScript. La plataforma incluye información sobre servicios de entrenamiento personalizados, programas de fitness, asesoramiento nutricional y testimonios de clientes. El diseño es moderno y responsive, optimizado para dispositivos móviles, facilitando la navegación y proporcionando una experiencia de usuario intuitiva. La aplicación permite a los usuarios conocer los servicios, ver testimonios y contactar con la entrenadora de forma sencilla.',
     image: '/img/yumarafitness.png',
     technologies: ['React', 'TypeScript'],
-    demo: 'https://yumarafitness.vercel.app/'
+    demo: 'https://www.yumaritssfitness.es/'
   }
 ]
 </script>
